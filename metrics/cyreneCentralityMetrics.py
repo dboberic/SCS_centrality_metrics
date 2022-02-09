@@ -8,7 +8,6 @@ Created on Mon Nov 15 23:24:33 2021
 
 import networkx as nx
 import collections
-import numpy as np
 
 class GraphMetrics:
     
@@ -29,17 +28,22 @@ class GraphMetrics:
                         continue
                     else:
                         for path in nx.all_simple_paths(G, source=n1, target=n2):
-                            for i in range(0,len(path)):
+                            for i in range(0,len(path)-1):
                                 try:
                                     temp = (path[i], path[i+1])
-                                    dict[temp] += 1
+                                    el = dict.get(temp)
+                                    if (el == None):
+                                        dict[temp]=0
+                                    else:
+                                        dict[temp]+=1
                                 except:
-                                    print()
+                                    raise Exception('General error!')
+
         NG = nx.DiGraph()
         for i in dict:
             NG.add_edge(i[0], i[1], weight=dict.get(i))
-        g_distance_dict = {(e1, e2): 1 / weight for e1, e2, weight in NG.edges(data='weight')}
-        nx.set_edge_attributes(NG, g_distance_dict, 'distance')
+        g_distance_dict = {(e1, e2): 1/weight for e1, e2, weight in NG.edges(data='weight')}
+        nx.set_edge_attributes(NG, g_distance_dict, 'weight')
         NG = NG.to_directed()    
         return NG
     
