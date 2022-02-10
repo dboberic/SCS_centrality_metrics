@@ -19,7 +19,7 @@ Application should be available in Docker container's URL, for example: <a href=
 
 ## Available REST API
 
-Service provides diffrent centrality metrics for given graph of assets. Depending on provided metric param, available metrics are:
+Service provides different centrality metrics for given graph of assets. Depending on provided metric param, available metrics are:
 * Betweenness centrality - BT
 * Pagerank centrality - PR
 * Closeness centrality - CL
