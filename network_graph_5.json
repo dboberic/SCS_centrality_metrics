@@ -1,0 +1,613 @@
+{
+    "Edges": [
+        {
+            "Child": "d3d9446802a44259755d38e6d163e820",
+            "ID": "35bba3e6ec8acdf962b7f40f24caee82",
+            "Parent": "45c48cce2e2d7fbdea1afc51c7c6ad26",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "6512bd43d9caa6e02c990b0a82652dca",
+            "ID": "9a80b9d0be9a6a7231ea3410faff3246",
+            "Parent": "a87ff679a2f3e71d9181a67b7542122c",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "6512bd43d9caa6e02c990b0a82652dca",
+            "ID": "55bba9e908dfb238265bbf27e1acbba0",
+            "Parent": "c81e728d9d4c2f636f067f89cc14862c",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "c81e728d9d4c2f636f067f89cc14862c",
+            "ID": "a559046869fe8bade3ccf1f91e83e51c",
+            "Parent": "c74d97b01eae257e44aa9d5bade97baf",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "c4ca4238a0b923820dcc509a6f75849b",
+            "ID": "d28b280179a756e174b76d3ef285b212",
+            "Parent": "9bf31c7ff062936a96d3c8bd1f8f2ff3",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "c81e728d9d4c2f636f067f89cc14862c",
+            "ID": "a797e6c141906b7ca11e16f0572421a2",
+            "Parent": "70efdf2ec9b086079795c442636b55fb",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "9bf31c7ff062936a96d3c8bd1f8f2ff3",
+            "ID": "41250c099d8173aab075c2760f3c6121",
+            "Parent": "c51ce410c124a10e0db5e4b97fc2af39",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "c51ce410c124a10e0db5e4b97fc2af39",
+            "ID": "66a052974ce6904eb410d79aeb9e2999",
+            "Parent": "6f4922f45568161a8cdf4ad2299f6d23",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "c74d97b01eae257e44aa9d5bade97baf",
+            "ID": "edb168107e9d50a88bcbc91dfb0f6073",
+            "Parent": "98f13708210194c475687be6106a3b84",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "98f13708210194c475687be6106a3b84",
+            "ID": "d18d1edaa3b845f8e2cedaf554365ebe",
+            "Parent": "1f0e3dad99908345f7439f8ffabdffc4",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "70efdf2ec9b086079795c442636b55fb",
+            "ID": "6f58f6268005084b6cfc8f84ae453b69",
+            "Parent": "3c59dc048e8850243be8079a5c74d079",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "3c59dc048e8850243be8079a5c74d079",
+            "ID": "a02f0a8dae411eb4b0e80c8d0fcc0345",
+            "Parent": "b6d767d2f8ed5d21a44b0e5886680cb9",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "c51ce410c124a10e0db5e4b97fc2af39",
+            "ID": "6654e7322edc7b7226e9a8498a783df2",
+            "Parent": "aab3238922bcc25a6f606eb525ffdc56",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "33e75ff09dd601bbe69f351039152189",
+            "ID": "4a1d0964ac029a5385ead38c950ab2f1",
+            "Parent": "6ea9ab1baa0efb9e19094440c317e21b",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "33e75ff09dd601bbe69f351039152189",
+            "ID": "f7a25878218bf8cd91fd4f96fac5ed3f",
+            "Parent": "17e62166fc8586dfa4d1bc0e1742c08b",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "17e62166fc8586dfa4d1bc0e1742c08b",
+            "ID": "d273ccc0fab1c97f4d078f37139e2e0e",
+            "Parent": "33e75ff09dd601bbe69f351039152189",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "c4ca4238a0b923820dcc509a6f75849b",
+            "ID": "dd134f6fc33e64c07c33e87c395f7103",
+            "Parent": "33e75ff09dd601bbe69f351039152189",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "c81e728d9d4c2f636f067f89cc14862c",
+            "ID": "4bf878e8b082ab99fe748ba2263d08b3",
+            "Parent": "c4ca4238a0b923820dcc509a6f75849b",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "45c48cce2e2d7fbdea1afc51c7c6ad26",
+            "ID": "9e67d3a60080787caf4284a26a708edc",
+            "Parent": "c9f0f895fb98ab9159f51fd0297e236d",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "45c48cce2e2d7fbdea1afc51c7c6ad26",
+            "ID": "f4fc6e0efb11bdc9d786868523488337",
+            "Parent": "eccbc87e4b5ce2fe28308fd9f2a7baf3",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "45c48cce2e2d7fbdea1afc51c7c6ad26",
+            "ID": "ea8b8deebac0b16e56777e7bb1d51221",
+            "Parent": "8f14e45fceea167a5a36dedd4bea2543",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "45c48cce2e2d7fbdea1afc51c7c6ad26",
+            "ID": "3b4491893a1ca5bf0c04bb713884d1cd",
+            "Parent": "e4da3b7fbbce2345d7772b0674a318d5",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "45c48cce2e2d7fbdea1afc51c7c6ad26",
+            "ID": "c728923a79280c078e1c811ec1cf86b2",
+            "Parent": "1679091c5a880faf6fb5e6087eb1b2dc",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "45c48cce2e2d7fbdea1afc51c7c6ad26",
+            "ID": "b8aac55cd9045b2501e7588f2de0a304",
+            "Parent": "a87ff679a2f3e71d9181a67b7542122c",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "c9f0f895fb98ab9159f51fd0297e236d",
+            "ID": "32a9ec32eb2d3a535fbea96ccdff5912",
+            "Parent": "8e296a067a37563370ded05f5a3bf3ec",
+            "RelationType": "CONNECTED_TO"
+        },
+        {
+            "Child": "c4ca4238a0b923820dcc509a6f75849b",
+            "ID": "0c819ac499b28afa7407e7239e40eddd",
+            "Parent": "02e74f10e0327ad868d138f2b4fdd6f0",
+            "RelationType": "CONNECTED_TO"
+        }
+    ],
+    "Nodes": [
+        {
+            "Generic_Type": "Hardware",
+            "ID": "c4ca4238a0b923820dcc509a6f75849b",
+            "Metadata": {
+                "IPV4": "1515",
+                "Name": "gNodeBs_1",
+                "Product": "d-bus",
+                "Type": "NetworkComponent/Access Point",
+                "Version": "0.21"
+            }
+        },
+        {
+            "Generic_Type": "Hardware",
+            "ID": "c81e728d9d4c2f636f067f89cc14862c",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "gNodeBs_2",
+                "Product": "",
+                "Type": "NetworkComponent/Access Point",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "eccbc87e4b5ce2fe28308fd9f2a7baf3",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "Vertical Application Orchestrator (VAO)",
+                "Product": "",
+                "Type": "Application/Other",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "a87ff679a2f3e71d9181a67b7542122c",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "NFV Orchestrator (NFVO) ",
+                "Product": "",
+                "Type": "Application/Other",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "e4da3b7fbbce2345d7772b0674a318d5",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "Wide-area Infrastructure Manager (WIM) ",
+                "Product": "",
+                "Type": "Application/Other",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "1679091c5a880faf6fb5e6087eb1b2dc",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "Wide-area SDN Controller (WSC)",
+                "Product": "",
+                "Type": "Application/Other",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "8f14e45fceea167a5a36dedd4bea2543",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "Virtual Infrastructure Managers (VIMs) ",
+                "Product": "",
+                "Type": "Application/Other",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "c9f0f895fb98ab9159f51fd0297e236d",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "Operations Support System (OSS)",
+                "Product": "",
+                "Type": "Application/Other",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Hardware",
+            "ID": "45c48cce2e2d7fbdea1afc51c7c6ad26",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "OpenstackServer",
+                "Product": "",
+                "Type": "Computer/Server",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Hardware",
+            "ID": "d3d9446802a44259755d38e6d163e820",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "VLAN 1",
+                "Product": "",
+                "Type": "NetworkComponent/VLAN",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Hardware",
+            "ID": "6512bd43d9caa6e02c990b0a82652dca",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "VLAN 2",
+                "Product": "",
+                "Type": "NetworkComponent/VLAN",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Hardware",
+            "ID": "c20ad4d76fe97759aa27a0c99bff6710",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "VLAN 3",
+                "Product": "",
+                "Type": "NetworkComponent/VLAN",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Hardware",
+            "ID": "c51ce410c124a10e0db5e4b97fc2af39",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "VNF Router 1",
+                "Product": "",
+                "Type": "NetworkComponent/Router",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "aab3238922bcc25a6f606eb525ffdc56",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "vApp_1",
+                "Product": "",
+                "Type": "Application/Other",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Generic",
+            "ID": "9bf31c7ff062936a96d3c8bd1f8f2ff3",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "VIManager_1",
+                "Product": "",
+                "Type": "Business Service/Infrastructure Service",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Generic",
+            "ID": "c74d97b01eae257e44aa9d5bade97baf",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "VIManager_2",
+                "Product": "",
+                "Type": "Business Service/Infrastructure Service",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Generic",
+            "ID": "70efdf2ec9b086079795c442636b55fb",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "VIManager_3",
+                "Product": "",
+                "Type": "Business Service/Infrastructure Service",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "6f4922f45568161a8cdf4ad2299f6d23",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "vApp_2",
+                "Product": "",
+                "Type": "Application/Other",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "1f0e3dad99908345f7439f8ffabdffc4",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "vApp_3",
+                "Product": "",
+                "Type": "Application/Other",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Hardware",
+            "ID": "98f13708210194c475687be6106a3b84",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "VNF Router 2",
+                "Product": "",
+                "Type": "NetworkComponent/Router",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Hardware",
+            "ID": "3c59dc048e8850243be8079a5c74d079",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "VNF Router 3",
+                "Product": "",
+                "Type": "NetworkComponent/Router",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "b6d767d2f8ed5d21a44b0e5886680cb9",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "vApp_4",
+                "Product": "",
+                "Type": "Application/Other",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Hardware",
+            "ID": "37693cfc748049e45d87b8c7d8b9aacd",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "testclone",
+                "Product": "",
+                "Type": "NetworkComponent/Access Point",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "1ff1de774005f8da13f42943881c655f",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "test asset",
+                "Product": "",
+                "Type": "Application/Anti-Virus / Security",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "8e296a067a37563370ded05f5a3bf3ec",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "Liferay Portal",
+                "Product": "liferay_enterprise_portal",
+                "Type": "Application/Entertainment",
+                "Version": "4.3.6"
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "4e732ced3463d06de0ca9a15b6153677",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "Liferay Portal 2",
+                "Product": "liferay_portal_enterprise",
+                "Type": "Application/Entertainment",
+                "Version": "3.6.1"
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "02e74f10e0327ad868d138f2b4fdd6f0",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "qqqqqq",
+                "Product": "liferay",
+                "Type": "Application/Back-up",
+                "Version": "5.1.0"
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "33e75ff09dd601bbe69f351039152189",
+            "Metadata": {
+                "IPV4": "123",
+                "Name": "liferay",
+                "Product": "liferay",
+                "Type": "Application/Back-up",
+                "Version": "5.1.0"
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "6ea9ab1baa0efb9e19094440c317e21b",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "Database",
+                "Product": "mariadb",
+                "Type": "Application/Business",
+                "Version": "10.0.0"
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "c16a5320fa475530d9583c34fd356ef5",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "asdasdasd",
+                "Product": "",
+                "Type": "Application/Anti-Virus / Security",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "6364d3f0f495b6ab9dcf8d3b5c6e0b01",
+            "Metadata": {
+                "IPV4": "5874474",
+                "Name": "test ip asset ",
+                "Product": "",
+                "Type": "Application/Back-up",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "182be0c5cdcd5072bb1864cdee4d3d6e",
+            "Metadata": {
+                "IPV4": "192.168.56.101",
+                "Name": "192.168.56.101",
+                "Product": "",
+                "Type": "Application/Other",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "e369853df766fa44e1ed0ff613f563bd",
+            "Metadata": {
+                "IPV4": "10.99.99.95",
+                "Name": "10.99.99.95",
+                "Product": "",
+                "Type": "Application/Other",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "1c383cd30b7c298ab50293adfecb7b18",
+            "Metadata": {
+                "IPV4": "251.134.130.42",
+                "Name": "251.134.130.42",
+                "Product": "",
+                "Type": "Application/Other",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "19ca14e7ea6328a42e0eb13d585e4c22",
+            "Metadata": {
+                "IPV4": "10.99.99.1001",
+                "Name": "10.99.99.1001",
+                "Product": "",
+                "Type": "Application/Other",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "a5bfc9e07964f8dddeb95fc584cd965d",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "new test asset",
+                "Product": "access",
+                "Type": "Application/Back-up",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "a5771bce93e200c36f7cd9dfd0e5deaa",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "wqewqewqeqwe",
+                "Product": "access",
+                "Type": "Application/Anti-Virus / Security",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "d67d8ab4f4c10bf22aa353e27879133c",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "Dotaaa",
+                "Product": "access",
+                "Type": "Application/Business",
+                "Version": ""
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "3416a75f4cea9109507cacd8e2f2aefc",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "mmmmmm",
+                "Product": "liferay",
+                "Type": "Application/Business",
+                "Version": "5.1.0"
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "a1d0c6e83f027327d8461063f4ac58a6",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "asdasdasdsad",
+                "Product": "liferay",
+                "Type": "Application/Back-up",
+                "Version": "5.1.0"
+            }
+        },
+        {
+            "Generic_Type": "Software",
+            "ID": "17e62166fc8586dfa4d1bc0e1742c08b",
+            "Metadata": {
+                "IPV4": "",
+                "Name": "frweee",
+                "Product": "liferay",
+                "Type": "Application/Anti-Virus / Security",
+                "Version": "5.1.0"
+            }
+        }
+    ]
+}
